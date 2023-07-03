@@ -8,7 +8,7 @@ Esse programa é um projeto da matéria Linguagem de programação 2 com método
 * Listar produtos no estoque
 * Alterar preço dos produtos
 * Salvar e carregar produtos em arquivo txt
-~ Ao mesmo tempo utilizando alguns dos principais conceitos de POO como:
+- - Ao mesmo tempo utilizando alguns dos principais conceitos de POO como:
 * Classes e objetos
 * Herança
 * Classes abstratas
